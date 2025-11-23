@@ -8,3 +8,4 @@ Tools used:
 - Kubeadm 
 - containerd
 
+Ps: My OS is a Windows machine.
